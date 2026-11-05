@@ -1,0 +1,8 @@
+{
+  "appId": "com.securequiz.app",
+  "appName": "SecureQuiz",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
