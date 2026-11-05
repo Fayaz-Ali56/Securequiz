@@ -9,7 +9,6 @@ There is no server and no database — all game state lives on the Ethereum Sepo
 
 <img width="203" height="353" alt="home" src="https://github.com/user-attachments/assets/b111054e-ec83-4838-a215-95748cd6ef88" />
 <img width="212" height="351" alt="Questions" src="https://github.com/user-attachments/assets/942181aa-cb72-4c46-a0ae-f32892c9f207" />
-<img width="166" height="305" alt="Explanation" src="https://github.com/user-attachments/assets/ae4d0334-6b9a-4122-afbd-9f3d9fba9ab0" />
 <img width="303" height="298" alt="badge-art" src="https://github.com/user-attachments/assets/296398b6-ddfd-4713-a5a1-924d36d8a20d" />
 
 
