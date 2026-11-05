@@ -5,8 +5,7 @@ questions about real vulnerability classes; correct answers are rewarded with
 ERC-20 tokens minted directly by a smart contract, and sustained progress earns
 non-transferable ERC-721 credential badges with artwork generated on-chain.
 
-Built as a final project for a Blockchain Security course. There is no server
-and no database — all game state lives on the Ethereum Sepolia test network.
+There is no server and no database — all game state lives on the Ethereum Sepolia test network.
 
 ## Contents
 
@@ -94,9 +93,9 @@ grep -c "<your game address>" dist/assets/index-*.js
 
 | Contract | Address |
 | --- | --- |
-| PlayToken | `0xA420A694f160D4D864E1e11C7D161D8C087AAaDb` |
-| SecurityQuizGame | `0x9F5dF19F72bA09659cD7FF22c5131C0E12dB16f4` |
-| SecureQuizBadge | `0x44DCb803822872387e4B7AA83f190dAC2b7b01dC` |
+| PlayToken | `.....................` |
+| SecurityQuizGame | `..................` |
+| SecureQuizBadge | `................` |
 
 Twenty-six questions are stored on-chain, of which twenty-five are active. One
 was deactivated after deployment because its stored answer used mixed case and
